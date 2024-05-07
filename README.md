@@ -109,21 +109,24 @@ _Number of Accounts
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
 ** 
-_P2P lending focusing on Small to midsize Enterproses (SME)
+_P2P lending focusing on Small to midsize Enterproses (SME) that will a good way to invest in their future investors
 _a little exposure to NFT wchich could become the next crypto in the nearest future
 _Regionnal expansion to Canada and Mexico to diversify and test internationl expansion
 **
 
 * Why do you think that offering this product or service would benefit the company?
 
-**  **
+** ofering these product will give growth opporutnity by diversifying into a rising market and and let them test thier offering in the international markets
+**
 
 * What technologies would this additional product or service utilize?
 
-**  **
+** Blockchain Technology, Distributed ledgers Technology and msart contarct technology will be required 
+**
 
 * Why are these technologies appropriate for your solution?
 
-**  **
+**  The technologies are required as toos of the trade. They will help to build the platform and to secure the transactions from [rying eyes. 
+**
 
 
