@@ -63,25 +63,42 @@ Source :https://wifitalents.com/statistic/robinhood-user/#:~:text=Highlights%3A%
 
 * What field is the company in?
 
-** FinTech (Financial Technology), a subset of the financial industry  **
+** FinTech (Financial Technology), a subset of the financial industry  
+**
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
-**  **
+** The FInTech industry has been growing like dandelion weed in spring made possible by mobile phone,internet connectivity and barve and creative entrepreurns.
+The users of FinTEch is forecast to reach 3.5Nillion people by 2024
+
+**  Source: https://www.statista.com/outlook/dmo/fintech/worldwide
 
 * What are the other major companies in this field?
 
-**  **
+**  North America *Mostly USA): Charles Schwab, Fidelity Investments, Interactive Brokers, Vangaurd, Webull, Wealth Simple, Ally Invest, E*Trade
+**
 
 ## Results
 
 * What has been the business impact of this company so far?
 
-**  **
+** Robinhood has single handedly democratized the stock trading and investing with their "No Fee" trading app. This has ibto the an entire gnenration of the Millenials into investmetn. This is significant. Robinhoog laso introduced fractional share purchase to its investor.
+
+As of September 2021: 
+_Robinhood had nearly 18.9 million net cumulative funded accounts.
+_The average Robinhood account holder is 31 years old.
+_As of Q2 2021, Robinhood has crossed 22.5 million monthly active users.
+_Roughly half of Robinhood’s user base identifies as first-time investors.
+_About 25% of Robinhood users are active on a daily basis.
+** 
+Source:  https://wifitalents.com/statistic/robinhood-user/#:~:text=Highlights%3A%20The%20Most%20Important%20Statistics&text=The%20average%20Robinhood%20account%20holder,active%20on%20a%20daily%20basis.
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
-**  **
+** 
+_Assets Under Managemnt (AUM) 
+_Number of Accounts
+**
 
 * How is your company performing relative to competitors in the same field?
 
